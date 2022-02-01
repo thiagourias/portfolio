@@ -1,0 +1,22 @@
+.footer-thiago{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+}
+.footer-title{
+    color: white;
+    font-size: 18px;
+}
+.footer-links{
+    text-decoration: none;
+}
+.footer-icon{
+    color: white;
+}
+.footer-left-title-pt{
+    padding-top: 36px;
+}
+.footer-right-title-pt{
+    padding-top: 36px;
+}

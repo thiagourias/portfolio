@@ -1,1 +1,65 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: roboto;
+    src: url(./assets/fonts/roboto/Roboto-Regular.ttf);
+ }
+ @font-face {
+    font-family: roboto;
+    src: url(./assets/fonts/roboto/Roboto-Light.ttf);
+    font-weight: lighter;
+ }
+ @font-face {
+    font-family: roboto;
+    src: url(./assets/fonts/roboto/Roboto-Bold.ttf);
+    font-weight: bold;
+ }
+ @font-face {
+    font-family: roboto;
+    src: url(./assets/fonts/roboto/Roboto-Italic.ttf);
+    font-style: italic;
+ }
+ @font-face {
+    font-family: lemon milk;
+    src: url(./assets/fonts/lemon_milk/LEMONMILK-Regular.otf);
+ }
+ @font-face {
+    font-family: lemon milk;
+    src: url(./assets/fonts/lemon_milk/LEMONMILK-Light.otf);
+    font-weight: lighter;
+ }
+ @font-face {
+    font-family: lemon milk;
+    src: url(./assets/fonts/lemon_milk/LEMONMILK-Bold.otf);
+    font-weight: bold;
+ }
+ @font-face {
+    font-family: lemon milk;
+    src: url(./assets/fonts/lemon_milk/LEMONMILK-LightItalic.otf);
+    font-style: italic;
+ }
+
+ body{
+   margin: 0;
+   font-family: roboto;
+   font-weight: lighter;
+}
+div{
+   font-family: roboto;
+}
+label{
+   font-family: roboto;
+}
+a{
+   font-family: roboto;
+}
+button{
+   font-family: roboto;
+}
+nav{
+   font-family: roboto;
+}
+.navbar-margin{
+   margin-top: 70px;
+
+   margin-left: 2em;
+   margin-right: 2em;
+}
