@@ -63,3 +63,14 @@ nav{
    margin-left: 2em;
    margin-right: 2em;
 }
+.mrml0{
+   margin-right: 0 !important;
+   margin-left: 0 !important;
+}
+.row{
+   margin-right: 0 !important;
+   margin-left: 0 !important;
+}
+.color-white{
+   color: white;
+}
