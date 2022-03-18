@@ -1,0 +1,18 @@
+.about{
+    min-height: 1000px;
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(24,23,27,1) 51%, rgba(23,23,23,1) 70%, rgba(0,0,0,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(24,23,27,1) 51%, rgba(23,23,23,1) 70%, rgba(0,0,0,1) 100%);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(24,23,27,1) 51%, rgba(23,23,23,1) 70%, rgba(0,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
+    color: white;
+}
+.pt-70p{
+    padding-top: 70px;
+}
+.home-title{
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: white;
+}

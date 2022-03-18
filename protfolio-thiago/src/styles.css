@@ -111,3 +111,13 @@ nav{
    );
    box-shadow: 0 4px 15px 0 rgba(45, 54, 65, 0.75);
 }
+.font-20{
+   font-size: 20px;
+}
+.mrml-auto{
+   margin-right: auto !important;
+   margin-left: auto !important;
+}
+.text-justify{
+   text-align: justify;
+}
